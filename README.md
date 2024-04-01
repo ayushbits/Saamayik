@@ -13,12 +13,13 @@ S&#227;mayik is an English-Sanskrit parallel dataset that captures contemporary 
 ## Citation
 If you use S&#227;mayik in your research, please cite our paper.
 
-
+```bibtex
 > @misc{maheshwari2023samayik,
-      title={S$\={a}$mayik: A Benchmark and Dataset for English-Sanskrit Translation}, 
+      title={Sāmayik: A Benchmark and Dataset for English-Sanskrit Translation}, 
       author={Ayush Maheshwari and Ashim Gupta and Amrith Krishna and Atul Kumar Singh and Ganesh Ramakrishnan and G. Anil Kumar and Jitin Singla},
       year={2023},
       eprint={2305.14004},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
+```
