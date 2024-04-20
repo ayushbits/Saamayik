@@ -1,5 +1,10 @@
 # S&#227;mayik: English-Sanskrit Parallel Dataset
 
+
+> [Sāmayik: A Benchmark and Dataset for English-Sanskrit Translation](https://arxiv.org/abs/2305.14004)  
+> Ayush Maheshwari, Ashim Gupta, Amrith Krishna, Atul Kumar Singh, Ganesh Ramakrishnan, G. Anil Kumar and Jitin Singla                    
+> LREC-COLING 2024
+
 ## Overview
 S&#227;mayik is an English-Sanskrit parallel dataset that captures contemporary usage of Sanskrit, particularly in prose. This dataset comprises of around 53,000 parallel sentence pairs gathered from diverse sources, including spoken content on contemporary world affairs, interpretation of literary works, pedagogical content, and more.
 
@@ -13,12 +18,13 @@ S&#227;mayik is an English-Sanskrit parallel dataset that captures contemporary 
 ## Citation
 If you use S&#227;mayik in your research, please cite our paper.
 
-
-> @misc{maheshwari2023samayik,
-      title={S$\={a}$mayik: A Benchmark and Dataset for English-Sanskrit Translation}, 
+```bibtex
+> @misc{maheshwari2024samayik,
+      title={Sāmayik: A Benchmark and Dataset for English-Sanskrit Translation}, 
       author={Ayush Maheshwari and Ashim Gupta and Amrith Krishna and Atul Kumar Singh and Ganesh Ramakrishnan and G. Anil Kumar and Jitin Singla},
-      year={2023},
+      year={2024},
       eprint={2305.14004},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
+```
